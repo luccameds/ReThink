@@ -1,4 +1,6 @@
-import { Header, Hero } from '@/components';
+import { Header, Hero, Partners } from '@/components';
+import Footer from '@/components/Footer';
+import { BlackBlock, GreenBlock } from '@/components/components2';
 import React from 'react';
 
 function Home() {
@@ -6,6 +8,10 @@ function Home() {
     <div>
       <Header />
       <Hero />
+      <Partners />
+      <GreenBlock />
+      <BlackBlock />
+      <Footer />
     </div>
   );
 }
