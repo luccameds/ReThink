@@ -31,8 +31,6 @@ function Hero() {
           <img src="/graph-5.svg" alt="graph5" />
         </div>
       </div>
-      <GreenBlock />
-      <BlackBlock />
     </div>
   );
 }

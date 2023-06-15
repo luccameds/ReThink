@@ -7,9 +7,9 @@ function Home() {
   return (
     <div>
       <Header />
+      <GreenBlock />
       <Hero />
       <Partners />
-      <GreenBlock />
       <BlackBlock />
       <Footer />
     </div>
