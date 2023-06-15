@@ -11,16 +11,16 @@ function Hero() {
             <p>em Experiências Digitais</p>
             <h1 className="font-bold">de Sucesso.</h1>
           </div>
-          <p className="my-5 w-1/2">
+          <p className="my-5 w-1/2 font-extralight">
             Unimos tecnologia, design e estratégia para ajudar empresas que
             precisam oferecer aos seus clientes uma experiência digital
             incrível.
           </p>
           <div className="my-16 flex flex-row">
-            <button className="rounded-[15px] bg-white px-5 py-5 text-black">
+            <button className="z-10 rounded-[15px] bg-white px-5 py-5 text-black">
               Entrar em Contato
             </button>
-            <button className="mx-10 text-lime-300">Sobre Nós</button>
+            <button className="z-10 mx-10 text-lime-300">Sobre Nós</button>
           </div>
         </div>
         <div className="flex flex-wrap justify-end max-xl:hidden">
